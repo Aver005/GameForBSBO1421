@@ -1,0 +1,8 @@
+C:\Users\avert\source\repos\Game14-Group\Game14-Group\bin\Debug\Game14-Group.exe.config
+C:\Users\avert\source\repos\Game14-Group\Game14-Group\bin\Debug\Game14-Group.exe
+C:\Users\avert\source\repos\Game14-Group\Game14-Group\bin\Debug\Game14-Group.pdb
+C:\Users\avert\source\repos\Game14-Group\Game14-Group\obj\Debug\Game14-Group.csproj.AssemblyReference.cache
+C:\Users\avert\source\repos\Game14-Group\Game14-Group\obj\Debug\Game14-Group.csproj.SuggestedBindingRedirects.cache
+C:\Users\avert\source\repos\Game14-Group\Game14-Group\obj\Debug\Game14-Group.csproj.CoreCompileInputs.cache
+C:\Users\avert\source\repos\Game14-Group\Game14-Group\obj\Debug\Game14-Group.exe
+C:\Users\avert\source\repos\Game14-Group\Game14-Group\obj\Debug\Game14-Group.pdb
